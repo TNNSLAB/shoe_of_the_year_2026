@@ -1,0 +1,6 @@
+{
+  "name": "Tennis Shoe Matchup - Story & Post Creator",
+  "description": "Create high-resolution Instagram stories and posts for tennis shoe battle tournaments, polls, and matchups with instant download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
